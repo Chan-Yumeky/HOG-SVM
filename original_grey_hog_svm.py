@@ -188,7 +188,7 @@ def train_and_test():
 
 
 def write_to_txt(list):
-    with open('old/result.txt', 'w') as f:
+    with open('grey_result.txt', 'w') as f:
         f.writelines(list)
     print('每张图片的识别结果存放在result.txt里面')
 
