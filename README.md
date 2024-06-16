@@ -1,5 +1,7 @@
 # HOG + SVM 实现图像分类
 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 ### 需求
 
 利用感应电机红外图像数据集，通过**HOG（Histogram of Oriented Gradients）**提取图像特征并使用**SVM（支持向量机）**实现图像的分类
